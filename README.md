@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <a href="https://doi.org/10.1016/j.knosys.2025.114080" target="_blank">
     STREAM-Net: Spatio-temporal feature fusion network for robust rPPG signal measurement in remote health monitoring
   </a>
@@ -17,7 +17,7 @@
 <br><br>
 
 </div>
----
+
 
 ## 🚀 Overview
 ![STREAM-Net](figures/figure1.png)
@@ -32,6 +32,7 @@ We propose **STREAM-Net**, a bilateral spatio-temporal network designed to estim
 Extensive experiments on two benchmark datasets validate the superior performance and robustness of our method. Additionally, we quantify ***predictive uncertainty*** using **[Monte Carlo dropout](link)**, demonstrating the model’s repeatability and reliability.
 
 ---
+
 
 
 ## 🔥Installation
