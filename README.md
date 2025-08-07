@@ -1,4 +1,5 @@
-#STREAM-Net: Spatio-temporal feature fusion network for robust rPPG signal measurement in remote health monitoring [(https://doi.org/10.1016/j.knosys.2025.114080)]<div align="center">
+#[STREAM-Net: Spatio-temporal feature fusion network for robust rPPG signal measurement in remote health monitoring](https://doi.org/10.1016/j.knosys.2025.114080)
+<div align="center">
 
 Muhammad Usman<sup>1</sup> | Milena Sobotka<sup>1</sup> | Jacek Ruminski<sup>1</sup>
 <sup>1</sup>Gdansk University of Technology
