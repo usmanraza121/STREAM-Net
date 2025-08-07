@@ -16,8 +16,8 @@ cd STREAM-Net
 conda create -n rppg python=3.8 pytorch=1.12.1 torchvision=0.13.1 torchaudio=0.12.1 cudatoolkit=10.2 -c pytorch -q -y
 pip install -r requirements.txt
 ```
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4b690b01-6c48-427b-9b56-e3bc410f9984" /> Training and Testing
-###Training
+## <img width="5" height="5" alt="image" src="https://github.com/user-attachments/assets/4b690b01-6c48-427b-9b56-e3bc410f9984" /> Training and Testing
+### Training
 ```bash
 python train.py
 
