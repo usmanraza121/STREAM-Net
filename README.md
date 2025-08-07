@@ -17,11 +17,10 @@
 <br><br>
 
 </div>
-
+---
 
 ## 🚀 Overview
 ![STREAM-Net](figures/figure1.png)
-## Abstract
 
 Remote photoplethysmography (rPPG) is a popular, non-invasive, contactless technique for detecting physiological signals with promising applications in health monitoring. Recent advances leverage deep learning to overcome challenges such as motion artifacts, redundancy, and external noise in video-based rPPG signal extraction.
 
