@@ -3,6 +3,8 @@ __pycache__/
 *.log
 *.mat
 .idea
+.ipynb_checkpoints/
+.ipynb_checkpoints
 preprocess
 preprocessed
 store_model
